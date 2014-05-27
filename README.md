@@ -1,7 +1,7 @@
-DarkCoin integration/staging tree
+Bitcoins integration/staging tree
 ================================
 
-http://www.darkcoin.io
+http://www.xbtcoins.org
 
 Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2013-2014 DarkCoin Developers
